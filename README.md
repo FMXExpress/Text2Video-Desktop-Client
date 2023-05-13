@@ -30,6 +30,8 @@ It also features a REST integration with Replicate.com for providing Generate Vi
 
 Other Delphi AI clients:
 
+[AI Code Translator](https://github.com/FMXExpress/AI-Code-Translator)
+
 [Stable Diffusion Desktop Client](https://github.com/FMXExpress/Stable-Diffusion-Desktop-Client/)
 
 [AI Playground](https://github.com/FMXExpress/AI-Playground-DesktopClient)
